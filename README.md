@@ -6,6 +6,6 @@ The system is based on a genetic algorithm, the details of which can be found in
 
 To run the code
 
-  clf = Auto_PU()
-  clf.fit(X_train, y_train)
-  y_pred = clf.predict(X_test)
+    clf = Auto_PU()
+    clf.fit(X_train, y_train)
+    y_pred = clf.predict(X_test)
